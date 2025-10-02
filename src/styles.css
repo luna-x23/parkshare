@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom small UI niceties */
+.map-box { height: 60vh; border-radius: 12px; overflow: hidden; box-shadow: 0 6px 18px rgba(2,6,23,0.08); }
+.card { background: white; border-radius: 10px; padding: 16px; box-shadow: 0 6px 16px rgba(2,6,23,0.06); }
